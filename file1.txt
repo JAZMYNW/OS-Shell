@@ -1,0 +1,10 @@
+bio
+physics
+chem
+math
+chem
+english
+science
+history
+physics
+english
